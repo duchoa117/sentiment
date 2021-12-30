@@ -1,0 +1,99 @@
+classifier name: BernoulliNB
+Confusion Matrix:
+ [[ 77  23  20]
+ [ 15  71  23]
+ [ 43  22 126]]
+
+
+Accuracy is  65.24 %
+Precision is  0.65
+Recall is  0.65
+___________________________________________
+classifier name: ComplementNB
+Confusion Matrix:
+ [[ 69  27  24]  
+ [ 13  77  19]   
+ [ 31  29 131]]  
+
+
+Accuracy is  65.95 %
+Precision is  0.66
+Recall is  0.66
+___________________________________________
+classifier name: MultinomialNB
+Confusion Matrix:
+ [[ 68  23  29]
+ [ 14  74  21]
+ [ 24  24 143]]
+
+
+Accuracy is  67.86 %
+Precision is  0.68
+Recall is  0.68
+___________________________________________
+classifier name: KNeighborsClassifier
+Confusion Matrix:
+ [[ 95   7  18]
+ [ 72  18  19]
+ [111  16  64]]
+
+
+Accuracy is  42.14 %
+Precision is  0.42
+Recall is  0.42
+___________________________________________
+classifier name: DecisionTreeClassifier
+Confusion Matrix:
+ [[ 72  28  20]
+ [ 26  62  21]
+ [ 43  47 101]]
+
+
+Accuracy is  55.95 %
+Precision is  0.56
+Recall is  0.56
+___________________________________________
+classifier name: RandomForestClassifier
+Confusion Matrix:
+ [[ 73  21  26]
+ [ 18  68  23]
+ [ 29  23 139]]
+
+
+Accuracy is  66.67 %
+Precision is  0.67
+Recall is  0.67
+___________________________________________
+classifier name: LogisticRegression
+Confusion Matrix:
+ [[ 76  24  20]
+ [ 15  78  16]
+ [ 28  30 133]]
+
+
+Accuracy is  68.33 %
+Precision is  0.68
+Recall is  0.68
+___________________________________________
+classifier name: MLPClassifier
+Confusion Matrix:
+ [[ 76  19  25]
+ [ 18  70  21]
+ [ 37  18 136]]
+
+
+Accuracy is  67.14 %
+Precision is  0.67
+Recall is  0.67
+___________________________________________
+classifier name: AdaBoostClassifier
+Confusion Matrix:
+ [[ 87  18  15]
+ [ 31  58  20]
+ [ 57  27 107]]
+
+
+Accuracy is  60.0 %
+Precision is  0.6
+Recall is  0.6
+___________________________________________
